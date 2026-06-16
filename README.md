@@ -2,7 +2,8 @@
 
 > Qwen based Darkweb Researching Model
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Jupyter Notebook-yellow) ![Framework](https://img.shields.io/badge/framework-Torch -orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/qwen_tor_researcher-black?logo=github) ![Hugging Face](https://img.shields.io/badge/https%3A%2F%2Fhuggingface.co%2Fy3chnx%2Fqwen-tor-researcher?label=Hugging%20Face&link=https%3A%2F%2Fhuggingface.co%2Fy3chnx%2Fqwen-tor-researcher) ![Build Status](https://img.shields.io/github/actions/workflow/status/y3chnx/qwen_tor_researcher/ci.yml?branch=main)
+![License]([https://img.shields.io/badge/license-MIT-green](https://img.shields.io/badge/license-MIT-blue)) ![Language](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![GitHub](https://img.shields.io/badge/GitHub-y3chnx/qwen_tor_researcher-black?logo=github)](https://github.com/y3chnx/qwen_tor_researcher) [![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)](https://huggingface.co/y3chnx/qwen-tor-researcher)
+
 
 ## 📋 Table of Contents
 
@@ -13,7 +14,6 @@
 
 - **👤 Author:** y3chnx
 - **📄 License:** MIT
-- **📂 Repository:** [https://github.com/y3chnx/qwen_tor_researcher](https://github.com/y3chnx/qwen_tor_researcher)
 
 ## Installation
 
